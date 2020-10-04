@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-this is a test
-=======
 ---
 layout: default
 ---
@@ -124,4 +121,3 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
->>>>>>> 0fcc2187d347401d7f768cc2580668fc618dde18
